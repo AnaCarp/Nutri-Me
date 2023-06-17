@@ -11,6 +11,7 @@ Technologies used:
 - Stripe API
 
 <h2>On boarding</h1>
+<img src="https://github.com/AnaCarp/Nutri-Me/assets/98180213/b946ed2a-13fa-4810-9faa-728d8e8dac7a" alt="Alt text" title="Optional title">
 ![image](https://github.com/AnaCarp/Nutri-Me/assets/98180213/b946ed2a-13fa-4810-9faa-728d8e8dac7a)
 <br>
 <h2>Login, signup</h1>

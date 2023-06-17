@@ -31,7 +31,6 @@ Technologies used:
 <br>
 <h2>Groceries Tab</h2>
 <img src="https://github.com/AnaCarp/Nutri-Me/assets/98180213/526dcc92-0d82-48bd-9023-459c701faf15">
-![image](https://github.com/AnaCarp/Nutri-Me/assets/98180213/526dcc92-0d82-48bd-9023-459c701faf15)
 <br>
 <h2>More Features</h2>
 <img src="https://github.com/AnaCarp/Nutri-Me/assets/98180213/108740b9-c594-4f1b-ba25-022777ec88a1">

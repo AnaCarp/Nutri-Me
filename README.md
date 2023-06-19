@@ -10,7 +10,6 @@ Technologies used:
 - Spoonacular API
 - Stripe API
 
-
 <h2>On boarding</h2>
 <img src="https://github.com/AnaCarp/Nutri-Me/assets/98180213/b946ed2a-13fa-4810-9faa-728d8e8dac7a">
 <br>
